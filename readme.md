@@ -1,3 +1,7 @@
+# The Ping Pad
+Project for elective course "Fablab Making". For this elective I've built a macropad with Penguin details.  
+
+![Images of the ping pad](https://cdn.discordapp.com/attachments/1094257901469696000/1094961377673752637/image.png "The Ping Pad")
 ## Credits
 
 ### Starters code
